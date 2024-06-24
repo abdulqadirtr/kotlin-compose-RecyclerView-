@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">RecyclerViewCompose</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Inversion</string>
+    <string name="ab2_quick_yoga">Quick Yoga</string>
+    <string name="ab3_streching">Streching</string>
+    <string name="ab4_tabata">Tabata</string>
+    <string name="ab5_hit">Hit</string>
+    <string name="ab6_pre_natural">Pre Natural</string>
+    <string name="fc1_short_mantras">Mantras</string>
+    <string name="fc2_nature_meditations">Meditation</string>
+    <string name="fc3_stress_and_anxiety">Stress and Anxiety</string>
+    <string name="fc4_self_massage">Massage</string>
+    <string name="fc5_overwhelmed">Overwhelmed</string>
+    <string name="fc6_nightly_wind_down">NightlyWind</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
 </resources>
